@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="money" size="0.150000 0.151667" />
+    <ImageTarget name="cin" size="0.150000 0.267857" />
+    <ImageTarget name="pizza" size="0.150000 0.334821" />
+    <ImageTarget name="thouraya" size="0.150000 0.084375" />
+  </Tracking>
+</QCARConfig>
